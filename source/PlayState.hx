@@ -854,7 +854,8 @@ class PlayState extends MusicBeatState
 				dad.y += 250;
 			case "green-man":
 				camPos.x += 600;
-				dad.y += 220;
+				//camPos.y += 220;
+				dad.y += 320;
 			case "monster":
 				dad.y += 100;
 			case 'monster-christmas':
@@ -4061,6 +4062,17 @@ class PlayState extends MusicBeatState
 		if (curBeat == 172 && curStage == 'stage' && dad.curCharacter == 'green-man')
 		{
 			dad.playAnim('mic-drop', true);
+			FlxTween.tween(FlxG.camera, {zoom: defaultCamZoom + .50}, 1.5, {
+			ease: FlxEase.quadInOut,
+			onComplete: function(twn:FlxTween)
+			{
+									
+			}
+			});
+		}
+		if (curBeat == 176 && curStage == 'stage' && dad.curCharacter == 'green-man')
+		{
+			//camZooming = true;
 		}
 		if (curBeat == 206 && curStage == 'stage' && dad.curCharacter == 'green-man')
 		{

@@ -534,11 +534,20 @@ class Character extends FlxSprite
 				animation.addByPrefix('stun', 'Green Man Stun', 24, false);
 				animation.addByPrefix('snap', 'Green Man Snap', 24, false);
 
-				addOffset('idle', 0, 0);
-				addOffset('singUP', 0, 0);
-				addOffset("singRIGHT", 0, 0);
-				addOffset("singLEFT", 0, 0);
-				addOffset("singDOWN", 0, 0);
+				addOffset('idle', 0, 110);
+				addOffset('singUP', 0, 110);
+				addOffset("singRIGHT", 0, 110);
+				addOffset("singLEFT", 0, 110);
+				addOffset("singDOWN", 0, 110);
+				addOffset('idle-alt', 0, 110);
+				addOffset('singUP-alt', 0, 110);
+				addOffset("singRIGHT-alt", 0, 110);
+				addOffset("singLEFT-alt", 0, 110);
+				addOffset("singDOWN-alt", 0, 110);
+				addOffset('mic-drop', 0, 110);
+				addOffset("mic-pickup", 0, 110);
+				addOffset("stun", 0, 110);
+				addOffset("snap", 0, 110);
 
 				//playAnim('idle');
 
