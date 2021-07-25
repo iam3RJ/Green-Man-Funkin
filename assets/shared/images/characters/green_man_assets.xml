@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="green_man_assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Green Man Idle0000" x="0" y="0" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Idle0001" x="618" y="0" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Idle0002" x="1236" y="0" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Idle0003" x="1854" y="0" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Idle0004" x="2472" y="0" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Down0000" x="3090" y="0" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Down0001" x="3708" y="0" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Down0002" x="4326" y="0" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Left0000" x="4944" y="0" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Left0001" x="5562" y="0" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Left0002" x="0" y="602" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Right0000" x="618" y="602" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Right0001" x="1236" y="602" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Right0002" x="1854" y="602" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Up0000" x="2472" y="602" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Up0001" x="3090" y="602" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Up0002" x="3708" y="602" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Stun0000" x="4326" y="602" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Stun0001" x="4944" y="602" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Stun0002" x="5562" y="602" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Stun0003" x="0" y="1204" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Stun0004" x="618" y="1204" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Stun0005" x="1236" y="1204" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Stun0006" x="1854" y="1204" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Stun0007" x="2472" y="1204" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Stun0008" x="3090" y="1204" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Drop0000" x="3708" y="1204" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Drop0001" x="4326" y="1204" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Drop0002" x="4944" y="1204" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Drop0003" x="5562" y="1204" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Drop0004" x="0" y="1806" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Drop0005" x="618" y="1806" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Drop0006" x="1236" y="1806" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Drop0007" x="1854" y="1806" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Drop0008" x="2472" y="1806" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Drop0009" x="3090" y="1806" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Drop0010" x="3708" y="1806" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Drop0011" x="4326" y="1806" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Drop0012" x="4944" y="1806" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Drop0013" x="5562" y="1806" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Drop0014" x="0" y="2408" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Drop0015" x="618" y="2408" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Drop0016" x="1236" y="2408" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Drop0017" x="1854" y="2408" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Drop0018" x="2472" y="2408" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Drop0019" x="3090" y="2408" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Drop0020" x="3708" y="2408" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Drop0021" x="4326" y="2408" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Drop0022" x="4944" y="2408" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Drop0023" x="5562" y="2408" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Drop0024" x="0" y="3010" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Drop0025" x="618" y="3010" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Drop0026" x="1236" y="3010" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Drop0027" x="1854" y="3010" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Drop0028" x="2472" y="3010" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Drop0029" x="3090" y="3010" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Alt Down0000" x="3708" y="3010" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Alt Down0001" x="4326" y="3010" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Alt Down0002" x="4944" y="3010" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Alt Left0000" x="5562" y="3010" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Alt Left0001" x="0" y="3612" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Alt Left0002" x="618" y="3612" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Alt Right0001" x="1236" y="3612" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Alt Right0002" x="1854" y="3612" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Alt Right0003" x="2472" y="3612" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Alt Up0000" x="3090" y="3612" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Alt Up0001" x="3708" y="3612" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Alt Up0002" x="4326" y="3612" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Alt Idle0000" x="4944" y="3612" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Alt Idle0001" x="5562" y="3612" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Alt Idle0002" x="0" y="4214" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Alt Idle0003" x="618" y="4214" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Alt Idle0004" x="1236" y="4214" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Alt Idle0005" x="1854" y="4214" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Alt Idle0006" x="2472" y="4214" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Alt Idle0007" x="3090" y="4214" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Pickup0000" x="3708" y="4214" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Pickup0001" x="4326" y="4214" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Pickup0002" x="4944" y="4214" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Pickup0003" x="5562" y="4214" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Pickup0004" x="0" y="4816" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Pickup0005" x="618" y="4816" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Pickup0006" x="1236" y="4816" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Pickup0007" x="1854" y="4816" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Pickup0008" x="2472" y="4816" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Pickup0009" x="3090" y="4816" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Mic Pickup0010" x="3708" y="4816" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Snap0000" x="4326" y="4816" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Snap0001" x="4944" y="4816" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Snap0002" x="5562" y="4816" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Snap0003" x="0" y="5418" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Snap0004" x="618" y="5418" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Snap0005" x="1236" y="5418" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Snap0006" x="1854" y="5418" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Snap0007" x="2472" y="5418" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Snap0008" x="3090" y="5418" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Snap0009" x="3708" y="5418" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Snap0010" x="4326" y="5418" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Snap0011" x="4944" y="5418" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+	<SubTexture name="Green Man Snap0012" x="5562" y="5418" width="618" height="602" frameX="0" frameY="0" frameWidth="618" frameHeight="602"/>
+</TextureAtlas>
