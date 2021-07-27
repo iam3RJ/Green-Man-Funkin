@@ -46,6 +46,9 @@ class TitleState extends MusicBeatState
 	var credTextShit:Alphabet;
 	var textGroup:FlxGroup;
 	var ngSpr:FlxSprite;
+	var thePeople:FlxSprite;
+	var greenManPic:FlxSprite;
+	var greenManMarker:FlxSprite;
 
 	var curWacky:Array<String> = [];
 
@@ -238,6 +241,26 @@ class TitleState extends MusicBeatState
 		ngSpr.updateHitbox();
 		ngSpr.screenCenter(X);
 		ngSpr.antialiasing = true;
+	
+		thePeople = new FlxSprite(-50, 0).loadGraphic(Paths.image('the_people'));
+		add(thePeople);
+		thePeople.visible = false;
+		thePeople.setGraphicSize(Std.int(thePeople.width * 1));
+		thePeople.updateHitbox();
+		//thePeople.screenCenter(X);
+		thePeople.antialiasing = true;
+
+		greenManPic = new FlxSprite(0, 0).loadGraphic(Paths.image('green_man_still'));
+		add(greenManPic);
+		greenManPic.visible = false;
+		greenManPic.setGraphicSize(Std.int(greenManPic.width * 1));
+		greenManPic.updateHitbox();
+		//greenManPic.screenCenter(X);
+		greenManPic.antialiasing = true;
+
+
+		//add(greenManMarker);
+		//greenManMarker.visible = false;
 
 		FlxTween.tween(credTextShit, {y: credTextShit.y + 20}, 2.9, {ease: FlxEase.quadInOut, type: PINGPONG});
 
@@ -390,6 +413,7 @@ class TitleState extends MusicBeatState
 		{
 			case 1:
 				createCoolText(['pizza crust', 'lostman', 'Ug101', 'and 3RJ']);
+				thePeople.visible = true;
 			// credTextShit.visible = true;
 			case 3:
 				addMoreText('present');
@@ -397,6 +421,7 @@ class TitleState extends MusicBeatState
 			// credTextShit.addText();
 			case 4:
 				deleteCoolText();
+				thePeople.visible =false;
 			// credTextShit.visible = false;
 			// credTextShit.text = 'In association \nwith';
 			// credTextShit.screenCenter();
@@ -419,18 +444,32 @@ class TitleState extends MusicBeatState
 			case 8:
 				deleteCoolText();
 				ngSpr.visible = false;
+				//greenManMarker = new FlxSprite(0, 0);
+				//greenManMarker.frames = Paths.getSparrowAtlas('green_man_still_frame');
+				//greenManMarker.animation.addByPrefix('idle', "greenmanmarker", 24);
+				//greenManMarker.antialiasing = true;
+				//greenManMarker.updateHitbox();
+				//add(greenManMarker);
+				//greenManMarker.visible = false;
 			// credTextShit.visible = false;
 
 			// credTextShit.text = 'Shoutouts Tom Fulp';
 			// credTextShit.screenCenter();
 			case 9:
+
+				//add(greenManMarker);
+				//greenManMarker.visible = true;
+				//greenManMarker.animation.play('idle');			
 				createCoolText([curWacky[0]]);
+				greenManPic.visible = true;
 			// credTextShit.visible = true;
 			case 11:
 				addMoreText(curWacky[1]);
 			// credTextShit.text += '\nlmao';
 			case 12:
+				//greenManMarker.visible = false;
 				deleteCoolText();
+				greenManPic.visible = false;
 			// credTextShit.visible = false;
 			// credTextShit.text = "Friday";
 			// credTextShit.screenCenter();
@@ -455,6 +494,9 @@ class TitleState extends MusicBeatState
 		if (!skippedIntro)
 		{
 			remove(ngSpr);
+			remove(thePeople);
+			//remove(greenManMarker);
+			remove(greenManPic);
 
 			FlxG.camera.flash(FlxColor.WHITE, 4);
 			remove(credGroup);
